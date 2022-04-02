@@ -1,0 +1,13 @@
+.menu {
+    background-color: brown;
+    border-radius: 3px;
+}
+
+.web-name {
+    color: rgb(49, 12, 216);
+    text-align: center;
+}
+
+body {
+    background-color: crimson;
+}
