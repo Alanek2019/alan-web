@@ -1,6 +1,7 @@
 .menu {
     background-color: brown;
     border-radius: 3px;
+    align-items: center;
 }
 
 .web-name {
@@ -11,3 +12,5 @@
 body {
     background-color: crimson;
 }
+
+.buttons {}
